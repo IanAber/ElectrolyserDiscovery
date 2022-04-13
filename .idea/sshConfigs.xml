@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="firefly.home" id="77612e1b-f244-4003-b13b-6db6963048cd" port="22" nameFormat="DESCRIPTIVE" username="ian" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
